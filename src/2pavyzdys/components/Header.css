@@ -1,0 +1,16 @@
+
+.Header-title{
+color:rgb(104, 104, 103);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Header-post {
+    font-style: italic;
+    color:darkorchid;
+}
+
+.Header-image{
+    width: 100%;
+    height: 41vh;
+    object-fit: cover
+}
